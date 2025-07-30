@@ -1,0 +1,13 @@
+﻿Hướng dẫn sử dụng:
+	- Đăng nhập với quyền admin:
+		+ Tendangnhap: user01
+		+ Pass:123456
+	- Đăng nhập với quyền seller:
+		+ Tendangnhap: user02
+		+ Pass: 123456
+	-Đăng nhập với vai trò custormer:
+		+ Tendangnhap: user06
+		+ Pass: 123456
+Phần mền hỗ trợ:
+	-Visual Studio 2022
+	-SQL Server

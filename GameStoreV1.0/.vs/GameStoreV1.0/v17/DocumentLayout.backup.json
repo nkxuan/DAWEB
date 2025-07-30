@@ -1,0 +1,654 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\game\\viewgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\game\\viewgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\shoppingcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\shared\\header2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\shared\\header2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\shared\\header1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\shared\\header1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\registerseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\registerseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\library.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\library.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\information.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\historymoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\historymoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\addmoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\addmoney.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\profile\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\profile\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\home\\helpview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\home\\helpview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\home\\contactview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\home\\contactview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\game\\sellergame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\game\\sellergame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\game\\searchgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\game\\searchgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\game\\searchcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\game\\searchcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\game\\gamelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\game\\gamelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\game\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\game\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\shared\\header3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\shared\\header3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:controllers\\sellercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\detailgamerevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\detailgamerevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\detailsellerrevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\detailsellerrevenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\revenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\revenue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\deleteuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\addnewaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\addnewaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\detailgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\detailgame.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\detail1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\detail1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|c:\\users\\laptop hp\\desktop\\proj final ver\\dth216259_nguyenthikimxuan\\gamestorev1.0\\views\\admin\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F292C3B3-A02D-4C93-B4AE-0B8A346F6825}|GameStoreV1.0.csproj|solutionrelative:views\\admin\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T02:52:21.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Header2.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Shared\\Header2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Header2.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Shared\\Header2.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Header2.cshtml",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAqwJIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:14:53.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Information.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\Information.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Information.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\Information.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Information.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:37.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "historyMoney.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\historyMoney.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\historyMoney.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\historyMoney.cshtml",
+              "RelativeToolTip": "Views\\Profile\\historyMoney.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:32.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Controllers\\GameController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:05:09.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwFsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:05:45.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewGame.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\ViewGame.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\ViewGame.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\ViewGame.cshtml",
+              "RelativeToolTip": "Views\\Game\\ViewGame.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:24:18.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfileController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:05:56.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Header.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAqwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:14:42.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\ShoppingCart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\ShoppingCart.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\ShoppingCart.cshtml",
+              "RelativeToolTip": "Views\\Profile\\ShoppingCart.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T07:17:37.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Header1.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Shared\\Header1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Header1.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Shared\\Header1.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Header1.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAqwK0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:14:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Library.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\Library.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Library.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\Library.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Library.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:38.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\Login.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:39.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\Register.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\Register.cshtml",
+              "RelativeToolTip": "Views\\Profile\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:40.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterSeller.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\RegisterSeller.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\RegisterSeller.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\RegisterSeller.cshtml",
+              "RelativeToolTip": "Views\\Profile\\RegisterSeller.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:40.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetPassWord.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\ResetPassWord.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\ResetPassWord.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\ResetPassWord.cshtml",
+              "RelativeToolTip": "Views\\Profile\\ResetPassWord.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:41.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\ForgotPassword.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Views\\Profile\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:29.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "addMoney.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\addMoney.cshtml",
+              "RelativeDocumentMoniker": "Views\\Profile\\addMoney.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Profile\\addMoney.cshtml",
+              "RelativeToolTip": "Views\\Profile\\addMoney.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:25:26.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:24:34.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HelpView.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Home\\HelpView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\HelpView.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Home\\HelpView.cshtml",
+              "RelativeToolTip": "Views\\Home\\HelpView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:24:33.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactView.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Home\\ContactView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ContactView.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Home\\ContactView.cshtml",
+              "RelativeToolTip": "Views\\Home\\ContactView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:24:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "sellerGame.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\sellerGame.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\sellerGame.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\sellerGame.cshtml",
+              "RelativeToolTip": "Views\\Game\\sellerGame.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:24:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SearchGame.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\SearchGame.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\SearchGame.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\SearchGame.cshtml",
+              "RelativeToolTip": "Views\\Game\\SearchGame.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:17:25.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "searchCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\searchCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\searchCategory.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\searchCategory.cshtml",
+              "RelativeToolTip": "Views\\Game\\searchCategory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:16:15.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GameList.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\GameList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\GameList.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\GameList.cshtml",
+              "RelativeToolTip": "Views\\Game\\GameList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:15:12.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Header3.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Shared\\Header3.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Header3.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Shared\\Header3.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Header3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:14:54.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Game\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Game\\CategoryList.cshtml",
+              "RelativeToolTip": "Views\\Game\\CategoryList.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwEQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:12:43.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SellerController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\SellerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SellerController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\SellerController.cs",
+              "RelativeToolTip": "Controllers\\SellerController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAAJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:11:49.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Management.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Management.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Management.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Management.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Management.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T04:03:49.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Revenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Revenue.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Revenue.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Revenue.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Revenue.cshtml",
+              "ViewState": "AgIAABMBAAAAAAAAAAAqwD8BAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:43:32.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "deleteUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\deleteUser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\deleteUser.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\deleteUser.cshtml",
+              "RelativeToolTip": "Views\\Admin\\deleteUser.cshtml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:43:16.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Addnewaccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Addnewaccount.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Addnewaccount.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Addnewaccount.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Addnewaccount.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:43:13.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "detailGame.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\detailGame.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\detailGame.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\detailGame.cshtml",
+              "RelativeToolTip": "Views\\Admin\\detailGame.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:43:02.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DetailGameRevenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\DetailGameRevenue.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\DetailGameRevenue.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\DetailGameRevenue.cshtml",
+              "RelativeToolTip": "Views\\Admin\\DetailGameRevenue.cshtml",
+              "ViewState": "AgIAACsBAAAAAAAAAAAkwD4BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:41:49.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAOgCAAAAAAAAAAAYwEgDAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:11:19.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DetailSellerRevenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\DetailSellerRevenue.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\DetailSellerRevenue.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\DetailSellerRevenue.cshtml",
+              "RelativeToolTip": "Views\\Admin\\DetailSellerRevenue.cshtml",
+              "ViewState": "AgIAABEBAAAAAAAAAAAqwD0BAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:45:14.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Detail1.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Detail1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Detail1.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Detail1.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Detail1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:16:30.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\LAPTOP HP\\Desktop\\proj final ver\\DTH216259_NguyenThiKimXuan\\GameStoreV1.0\\Views\\Admin\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-06T03:17:55.056Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

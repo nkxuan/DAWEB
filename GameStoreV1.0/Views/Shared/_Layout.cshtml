@@ -1,0 +1,188 @@
+﻿@{
+    bool isCookieExists = Context.Request.Cookies.ContainsKey("UserCookie");
+    bool isCookieExists2 = Context.Request.Cookies.ContainsKey("SellerCookie");
+    bool isCookieExists3 = Context.Request.Cookies.ContainsKey("AdminCookie");
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    
+
+    
+
+
+
+
+</head>
+
+
+<body style="background-image: url('/upload/2/648bcb4905c7e.jpg')">
+
+    
+    <header>
+         @if (isCookieExists3)
+    {
+        @Html.Partial("Header3")
+    }
+    else
+    {
+        if (isCookieExists2)
+        {
+           @Html.Partial("Header2")
+        }
+        else
+        {
+            if (isCookieExists)
+            {
+                @Html.Partial("Header1")
+            }
+            else {@Html.Partial("Header") }
+        }
+    }
+       
+    </header>
+    <div class="container" style="background-color: black;">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Google Translate Widget -->
+    <div id="google_translate_element" style="position: fixed; top: 10px; right: 10px; z-index: 9999;"></div>
+
+
+    <footer class="youplay-footer youplay-footer-parallax">
+        <div class="image" data-speed="0.4" data-img-position="50% 0%">
+            <img src="/upload/3/5bb04a90bff2a.jpg" alt class="jarallax-img">
+        </div>
+        <div class="wrapper">
+
+            <div class="social">
+                <div class="container">
+                    <h3 class="stroke-text">Kết nối với <strong>Wong's Store</strong></h3>
+                    <div class="social-icons">
+                        <div class="social-icon">
+                            <a href="https://discord.gg/EE5zsGFKdv">
+                                <i class="fab fa-discord"></i>
+                                <span>Kết nối Discord</span>
+                            </a>
+                        </div>
+                        <div class="social-icon">
+                            <a href="https://www.youtube.com/watch?v=nDUQ-MvnO6s">
+                                <i class="fab fa-youtube"></i>
+                                <span>Kết nối Youtube</span>
+                            </a>
+                        </div>
+                        <div class="social-icon">
+                            <a href="https://www.facebook.com/kimxuan.2408" target="_blank">
+                                <i class="fab fa-facebook"></i>
+                                <span>Kết nối Facebook</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="copyright">
+                <div class="container">
+                    <p>2025 &copy; <strong>Wong's Store</strong>. All rights reserved</p>
+                </div>
+            </div>
+
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300,400,700">
+
+    <link rel="stylesheet" href="/fe/assets/vendor/bootstrap/dist/css/bootstrap.min.css" />
+
+    <link rel="stylesheet" href="/fe/assets/vendor/flickity/dist/flickity.min.css" />
+
+    <link rel="stylesheet" href="/fe/assets/vendor/magnific-popup/dist/magnific-popup.css" />
+
+    <link rel="stylesheet" href="/fe/assets/vendor/slider-revolution/css/settings.css">
+    <link rel="stylesheet" href="/fe/assets/vendor/slider-revolution/css/layers.css">
+    <link rel="stylesheet" href="/fe/assets/vendor/slider-revolution/css/navigation.css">
+
+    <link rel="stylesheet" href="/fe/assets/vendor/bootstrap-sweetalert/dist/sweetalert.css" />
+
+    <link rel="stylesheet" href="/fe/assets/vendor/social-likes/dist/social-likes_flat.css" />
+
+    <link rel="stylesheet" href="/fe/assets/css/youplay-shooter.css">
+
+
+    <link rel="stylesheet" href="/fe/assets/css/custom.css">
+
+
+    <link rel="stylesheet" type="text/css" href="/css/app.css">
+    <script>
+        window.Laravel = { "csrfToken": "DnOQFjzFWSUiauzhg7PTqU8ZaHtLpOqemNzTCU4S" };
+    </script>
+    <script src="../www.google.com/recaptcha/api05cd.js?onload=vueRecaptchaApiLoaded&amp;render=explicit" async defer>
+    </script>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135514887-1"></script>
+     <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-135514887-1');
+    </script> 
+    <script src="/js/app.js"></script>
+
+    <script src="/fe/assets/vendor/object-fit-images/dist/ofi.min.js"></script>
+
+    <script src="/fe/assets/vendor/jquery/dist/jquery.min.js"></script>
+
+    <script src="/fe/assets/vendor/HexagonProgress/jquery.hexagonprogress.min.js"></script>
+
+    <script src="/fe/assets/vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="/fe/assets/vendor/jarallax/dist/jarallax.min.js"></script>
+
+    <script src="/fe/assets/vendor/flickity/dist/flickity.pkgd.min.js"></script>
+
+    <script src="/fe/assets/vendor/jquery-countdown/dist/jquery.countdown.min.js"></script>
+
+    <script src="../momentjs.com/downloads/moment.min.js"></script>
+    <script src="/fe/assets/vendor/moment-timezone/builds/moment-timezone-with-data.min.js"></script>
+
+    <script src="/fe/assets/vendor/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
+
+    <script src="/fe/assets/vendor/slider-revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="/fe/assets/vendor/slider-revolution/js/jquery.themepunch.revolution.min.js"></script>
+
+    <script src="/fe/assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+
+    <script src="/fe/assets/vendor/isotope-layout/dist/isotope.pkgd.min.js"></script>
+
+    <script src="/fe/assets/vendor/bootstrap-validator/dist/validator.min.js"></script>
+
+    <script src="/fe/assets/vendor/bootstrap-sweetalert/dist/sweetalert.min.js"></script>
+
+    <script src="/fe/assets/vendor/social-likes/dist/social-likes.min.js"></script>
+
+    <script src="/fe/assets/vendor/font-awesome/svg-with-js/js/fontawesome-all.min.js"></script>
+    <script src="/fe/assets/vendor/font-awesome/svg-with-js/js/fa-v4-shims.min.js"></script>
+
+    <script src="/fe/assets/js/youplay.js"></script>
+    <script src="/fe/assets/js/youplay-init.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false) 
+
+
+</body>
+
+</html>
