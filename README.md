@@ -15,6 +15,7 @@ Công việc thực hiện:
 - Áp dụng mô hình MVC để tách biệt giao diện, xử lý và dữ liệu rõ ràng.
 - Triển khai API nội bộ, xử lý các thao tác không tải lại trang.
 - Thử nghiệm và kiểm tra chức năng bằng Postman và các công cụ debug trong Visual Studio.
+  
 Kết quả đạt được:
 - Hoàn thành đầy đủ chức năng một trang web TMĐT cơ bản.
 - Tự học và làm chủ nhiều công nghệ mới như ASP.NET Core, Entity Framework.
