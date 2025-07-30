@@ -1,4 +1,7 @@
+Dự án Cá Nhân: Website Bán Game Online
+
 Công nghệ: ASP.NET Core MVC, Entity Framework, SQL Server, HTML, CSS, Bootstrap
+
 Mô tả dự án: Website bán game trực tuyến cho phép người dùng đăng ký tài khoản, đăng nhập, duyệt danh mục game, thêm vào giỏ hàng và đặt mua. Dự án được thực hiện một mình trong thời gian thực tập, với mục tiêu rèn luyện kỹ năng xây dựng ứng dụng web từ backend đến frontend.
 
 Công việc thực hiện:
